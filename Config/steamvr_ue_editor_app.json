@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.readm-11590370.ue4editor-win64-debuggame.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/LBN/readm/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "readm-11590370 [UE Editor]"
+				}
+			}
+		}
+	]
+}
